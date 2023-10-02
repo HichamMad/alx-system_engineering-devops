@@ -1,2 +1,2 @@
-chmod u+x
-ls -t . | head
+#!/bin/bash
+ls -t | head -n 10 
